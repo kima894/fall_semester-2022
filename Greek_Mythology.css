@@ -1,0 +1,147 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(file:///Users/aliciakim/Desktop/Parsons/2022-23/Core1_interaction/Entries/Entry_2/Greek_Mythology.html);
+}
+
+
+
+html {
+  background-image: url("file:///Users/aliciakim/Desktop/Parsons/2022-23/Core1_interaction/Entries/Entry_3/images/ScrolL_shelf.PNG");
+  background-size: 100%;
+  
+    font-size: 25px;
+    min-height: 255vh;
+
+  }
+
+
+  body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px;
+    
+  }
+  
+  
+
+  .Gods {
+    margin-top: 90px;
+    font-family: sans-serif;
+    display: flex;
+  }
+
+
+  .Persephone {
+    position: absolute;
+    margin-top: 550px;
+     margin-left: 510px;
+    width: 10%;
+    height: 200px;
+  }
+  
+  
+  .Persephone img {
+
+    width: 100%;
+    object-fit: cover;
+  }
+  
+
+
+
+
+
+
+
+.Nemesis {
+  position: absolute;
+  margin-top: 1030px;
+   margin-left: 540px;
+  width: 8%;
+  height: 200px;
+}
+
+
+.Nemesis img {
+
+  width: 80%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+.Nemesis {
+  position: absolute;
+  margin-top: 1030px;
+   margin-left: 555px;
+  width: 8%;
+  height: 200px;
+}
+
+
+.Nemesis img {
+
+  width: 80%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+.Hades {
+  position: absolute;
+  margin-top: 1500px;
+   margin-left: 505px;
+  width: 8%;
+  height: 200px;
+}
+
+
+.Hades img {
+
+  width: 150%;
+  object-fit: cover;
+}
+
+
+
+
+.Nyx {
+  position: absolute;
+  margin-top: 2025px;
+   margin-left: 505px;
+  width: 8%;
+  height: 200px;
+}
+
+
+.Nyx img {
+
+  width: 130%;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
